@@ -1,0 +1,4 @@
+rich==13.7.0
+pyfiglet==1.0.2
+psutil==5.9.8
+requests==2.31.0
